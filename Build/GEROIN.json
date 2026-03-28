@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GEROIN.data.unityweb",
+"asmCodeUrl": "GEROIN.asm.code.unityweb",
+"asmMemoryUrl": "GEROIN.asm.memory.unityweb",
+"asmFrameworkUrl": "GEROIN.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
